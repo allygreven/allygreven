@@ -8,7 +8,7 @@ My career began in the fashion industry in San Diego, California, where I intern
 
 ✨ I'm currently in my "post-program" of my coding boot-camp and starting a new personal project! <br>
 📚 I'm currently reading <b>The Boyfriend</b> by <i>Freida McFadden</i><br>
-🫱🏼‍🫲🏽 I have commit-ment issues (currently working on being better about "committing" on github)
+🫱🏼‍🫲🏽 I have commit-ment issues (currently working on being better about "committing" on github)<br>
 💌 How to reach me: <u>allysongreven@gmail.com</u><br><br>
 
 
