@@ -6,8 +6,9 @@ I'm a passionate web developer and current student at LearningFuze, where I am e
 
 My career began in the fashion industry in San Diego, California, where I interned for the renowned designer Zandra Rhodes at 16. While studying at the Fashion Institute of Design and Merchandising in Los Angeles, I transitioned into the Entertainment Industry as a costumer, a role in which I excelled in for over ten years. I'm now pursuing my passion for technology and working towards my goals in development.
 
-✨ I'm currently in my "post-program" of my coding boot-camp and starting a new project! <br>
-📚 I'm currently reading <b>The Midnight Feast</b> by <i>Lucy Foley</i><br>
+✨ I'm currently in my "post-program" of my coding boot-camp and starting a new personal project! <br>
+📚 I'm currently reading <b>The Boyfriend</b> by <i>Freida McFadden</i><br>
+🫱🏼‍🫲🏽 I have commit-ment issues (currently working on being better about "committing" on github)
 💌 How to reach me: <u>allysongreven@gmail.com</u><br><br>
 
 
