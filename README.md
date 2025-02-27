@@ -29,4 +29,4 @@ My career began in the fashion industry in San Diego, California, where I intern
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br><br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=allygreven&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=e06cdc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <br><br>
+
