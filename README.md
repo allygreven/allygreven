@@ -7,7 +7,7 @@ I'm a passionate web developer and recent graduate of LearningFuze Code Acamdemy
 My career began in the fashion industry in San Diego, California, where I interned for the renowned designer Zandra Rhodes at 16. While studying at the Fashion Institute of Design and Merchandising in Los Angeles, I transitioned into the entertainment industry as a costumer, a role in which I excelled in for over ten years. I'm now pursuing my passion for technology and working towards my goals in development.
 
 ✨ I'm currently in my "post-program" of my coding boot-camp and starting a new personal project! <br>
-📚 I'm currently reading <b>The Boyfriend</b> by <i>Freida McFadden</i><br>
+📚 I'm currently reading <b>The Let Them Theory</b> by <i>Mel Robbins</i><br>
 🫱🏼‍🫲🏽 I have commit-ment issues (currently working on being better about "committing" on github)<br>
 💌 How to reach me: <u>allysongreven@gmail.com</u><br>
 
